@@ -68,6 +68,7 @@ https://github.com/amirabenameur3/Colmar_Academy
 - HTML5
 - CSS3
 - Flexbox
+- CSS Grid
 - Responsive Design
 - Git & GitHub
 
