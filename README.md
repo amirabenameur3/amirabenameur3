@@ -8,6 +8,17 @@ Currently learning **Front-End Development** and building projects using **HTML,
 
 ## 🚀 Projects
 
+### 🎮 ShadowPixel Studios
+A fictional game studio website designed and developed from scratch as a front-end portfolio project.
+
+🔗 Live Demo  
+https://amirabenameur3.github.io/PixelShadows_Studios/
+
+💻 Repository  
+https://github.com/amirabenameur3/PixelShadows_Studios
+
+---
+
 ### 📘 HTML & CSS Cheatsheet
 A responsive reference website summarizing key HTML and CSS concepts including structure, the box model, and layout techniques.
 
