@@ -8,6 +8,17 @@ Currently learning **Front-End Development** and building projects using **HTML,
 
 ## 🚀 Projects
 
+### 🎮 ShadowPixel Gaming Club
+A responsive gaming community website designed and developed from scratch as a front-end portfolio project featuring modern UI styling, reusable components, and responsive layouts.
+
+🔗 Live Demo  
+https://amirabenameur3.github.io/shadowpixel-gaming-club/
+
+💻 Repository  
+https://github.com/amirabenameur3/shadowpixel-gaming-club
+
+---
+
 ### 🎮 ShadowPixel Studios
 A fictional game studio website designed and developed from scratch as a front-end portfolio project.
 
