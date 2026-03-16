@@ -26,7 +26,7 @@ A responsive gaming community website designed and developed from scratch as a f
 https://amirabenameur3.github.io/ShadowPixel-Gaming-Club/
 
 💻 Repository  
-https://github.com/amirabenameur3/shadowpixel-gaming-club
+https://github.com/amirabenameur3/ShadowPixel-Gaming-Club
 
 ---
 
