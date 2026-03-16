@@ -12,10 +12,10 @@ Currently learning **Front-End Development** and building projects using **HTML,
 A fictional game studio website designed and developed from scratch as a front-end portfolio project.
 
 🔗 Live Demo  
-https://amirabenameur3.github.io/PixelShadows_Studios/
+https://amirabenameur3.github.io/ShadowPixel_Studios/
 
 💻 Repository  
-https://github.com/amirabenameur3/PixelShadows_Studios
+https://github.com/amirabenameur3/ShadowPixel_Studios
 
 ---
 
