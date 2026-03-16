@@ -70,7 +70,7 @@ A responsive website for a fictional tea shop built using HTML and CSS, focusing
 https://amirabenameur3.github.io/Tea-Cozy/
 
 💻 Repository  
-https://github.com/amirabenameur3/Tea_Cozy
+https://github.com/amirabenameur3/Tea-Cozy
 
 ---
 
