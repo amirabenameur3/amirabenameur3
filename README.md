@@ -79,11 +79,8 @@ https://github.com/amirabenameur3/Tea-Cozy
 ### 🎓 Colmar Academy
 A polished responsive educational landing page built with HTML and CSS, focusing on Flexbox layouts, responsive design, and modern UI structure.
 
-🔗 **Live Demo** 
-https://amirabenameur3.github.io/Colmar_Academy/
-
-💻 **Repository**  
-https://github.com/amirabenameur3/Colmar_Academy
+- 🔗 [Live Demo](https://amirabenameur3.github.io/Colmar_Academy/)
+- 💻 [Repository](https://github.com/amirabenameur3/Colmar_Academy)
 
 ---
 
