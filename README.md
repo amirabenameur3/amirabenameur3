@@ -1,53 +1,55 @@
 # Hi, I'm Amira 👋
 
-PhD researcher in Structural & Transportation Engineering with a strong interest in **web development and software engineering**.
+PhD researcher in **Structural & Transportation Engineering** with a growing passion for **front-end development, UI/UX design, and software engineering**.
 
-Currently learning **Front-End Development** and building projects using **HTML, CSS, and Git**.
+Currently transitioning into tech by building modern, responsive web projects using **HTML, CSS, JavaScript, Git, and GitHub**, while continuously expanding my skills in interactive and accessible web development.
+
+I enjoy combining **analytical problem-solving, creativity, and clean design** to create polished digital experiences and continuously improve as a developer.
 
 ---
 
 ## 🚀 Projects
 
 ### 🎮 ShadowPixel Studios
-A fictional game studio website designed and developed from scratch as a front-end portfolio project.
+A fully responsive fictional game studio website crafted from scratch to showcase modern front-end development, immersive UI design, and interactive user experiences.
 
-🔗 Live Demo  
+🔗 **Live Demo**  
 https://amirabenameur3.github.io/ShadowPixel_Studios/
 
-💻 Repository  
+💻 **Repository**  
 https://github.com/amirabenameur3/ShadowPixel_Studios
 
 ---
 
 ### 🎮 ShadowPixel Gaming Club
-A responsive gaming community website designed and developed from scratch as a front-end portfolio project featuring modern UI styling, reusable components, and responsive layouts.
+A modern responsive gaming community website designed and developed from scratch as a front-end portfolio project. The project features polished UI design, interactive JavaScript functionality, accessibility-focused components, responsive layouts, and immersive gaming-inspired visuals.
 
-🔗 Live Demo  
+🔗 **Live Demo**  
 https://amirabenameur3.github.io/ShadowPixel-Gaming-Club/
 
-💻 Repository  
+💻 **Repository**  
 https://github.com/amirabenameur3/ShadowPixel-Gaming-Club
 
 ---
 
 ### 📘 HTML & CSS Cheatsheet
-A responsive reference website summarizing key HTML and CSS concepts including structure, the box model, and layout techniques.
+A modern and responsive reference website that summarizes essential HTML and CSS concepts, featuring interactive accordions, live search with highlighting, copy-to-clipboard code snippets, dark/light theme support, responsive navigation, accessibility improvements, and polished UI components for an enhanced learning experience.
 
-🔗 Live Demo  
+🔗 **Live Demo**  
 https://amirabenameur3.github.io/html_css_cheatsheet/
 
-💻 Repository  
+💻 **Repository**  
 https://github.com/amirabenameur3/html_css_cheatsheet
 
 ---
 
 ### 🎨 Website Design System
-A reusable design system showcasing color palettes, typography styles, and UI components to maintain consistent web design across projects.
+A modern and reusable design system featuring responsive layouts, theme switching, typography scales, interactive UI components, accessibility enhancements, and scalable design tokens to maintain consistent and polished web experiences across projects.
 
-🔗 Live Demo  
+🔗 **Live Demo**
 https://amirabenameur3.github.io/Website_Design_System/
 
-💻 Repository  
+💻 **Repository**  
 https://github.com/amirabenameur3/Website_Design_System
 
 ---
@@ -64,23 +66,23 @@ https://github.com/amirabenameur3/excursion
 ---
 
 ### 🍵 Tea Cozy Website
-A responsive website for a fictional tea shop built using HTML and CSS, focusing on layout and responsive design.
+A modern responsive landing page for a fictional tea shop, built with HTML5 and CSS3 using Flexbox layout techniques and responsive design principles.
 
-🔗 Live Demo  
+🔗 **Live Demo**  
 https://amirabenameur3.github.io/Tea-Cozy/
 
-💻 Repository  
+💻 **Repository**  
 https://github.com/amirabenameur3/Tea-Cozy
 
 ---
 
 ### 🎓 Colmar Academy
-A responsive educational website layout designed to practice complex page layouts and responsive design techniques.
+A polished responsive educational landing page built with HTML and CSS, focusing on Flexbox layouts, responsive design, and modern UI structure.
 
-🔗 Live Demo  
+🔗 **Live Demo** 
 https://amirabenameur3.github.io/Colmar_Academy/
 
-💻 Repository  
+💻 **Repository**  
 https://github.com/amirabenameur3/Colmar_Academy
 
 ---
