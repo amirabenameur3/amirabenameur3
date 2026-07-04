@@ -10,6 +10,19 @@ I enjoy combining **analytical problem-solving, creativity, and clean design** t
 
 ## 🚀 Projects
 
+### 🌍 Excursion Explorer
+A modern travel discovery web application that allows users to explore destinations worldwide with real-time weather, local time, interactive maps, nearby attractions, travel information, and favorite destinations.
+
+**Tech Stack:** HTML5 • CSS3 • JavaScript (ES6 Modules) • OpenWeather API • Wikipedia API • Pexels API • Leaflet • OpenStreetMap
+
+🔗 **Live Demo:**  
+https://amirabenameur3.github.io/Excursion-explorer/
+
+💻 **Repository:**  
+https://github.com/amirabenameur3/Excursion-explorer
+
+---
+
 ### 🎮 ShadowPixel Studios
 A fully responsive fictional game studio website crafted from scratch to showcase modern front-end development, immersive UI design, and interactive user experiences.
 
