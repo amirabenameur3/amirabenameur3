@@ -2,13 +2,29 @@
 
 PhD researcher in **Structural & Transportation Engineering** with a growing passion for **front-end development, UI/UX design, and software engineering**.
 
-Currently transitioning into tech by building modern, responsive web projects using **HTML, CSS, JavaScript, Git, and GitHub**, while continuously expanding my skills in interactive and accessible web development.
+Currently transitioning into tech by building modern, responsive web applications using **HTML, CSS, JavaScript, React, Git, GitHub, and REST APIs**, while continuously expanding my skills in interactive, accessible, and component-based web development.
 
 I enjoy combining **analytical problem-solving, creativity, and clean design** to create polished digital experiences and continuously improve as a developer.
 
 ---
 
 ## 🚀 Projects
+
+### 🎵 Jammming
+
+A modern and responsive React application that allows users to search Spotify's music catalog, build and reorder custom playlists, and save them directly to their Spotify account.
+
+The project features secure **OAuth 2.0 authentication with PKCE**, automatic token refresh, sortable search results, drag-and-drop playlist reordering, loading states, toast notifications, and responsive desktop and mobile layouts.
+
+**Tech Stack:** React 19 • JavaScript (ES6+) • CSS3 • Vite 8 • Spotify Web API • OAuth 2.0 + PKCE • GitHub Actions • GitHub Pages
+
+🔗 **Live Demo:**  
+[https://amirabenameur3.github.io/Jammming/](https://amirabenameur3.github.io/Jammming/)
+
+💻 **Repository:**  
+https://github.com/amirabenameur3/Jammming
+
+---
 
 ### 🌍 Excursion Explorer
 A modern travel discovery web application that allows users to explore destinations worldwide with real-time weather, local time, interactive maps, nearby attractions, travel information, and favorite destinations.
@@ -106,19 +122,27 @@ https://github.com/amirabenameur3/Colmar_Academy
 - CSS3 & Modern Styling
 - Flexbox & CSS Grid
 - Responsive Web Design
+- JavaScript (ES6+)
+- React
+- React Hooks & Component Architecture
+- REST API Integration
+- OAuth 2.0 & PKCE Authentication
 - Git & GitHub Workflow
-- JavaScript Fundamentals
+- Vite
+- GitHub Actions & GitHub Pages
+- Accessibility & ARIA
 - Front-End Development Principles
 
 ---
 
 ## 🎯 Current Goals
 
-- Strengthen front-end development skills
-- Build polished and responsive web projects
-- Learn modern JavaScript concepts
-- Expand into APIs and interactive applications
-- Progress toward full-stack web development
+- Deepen React and modern front-end development skills
+- Build larger, production-style web applications
+- Strengthen testing and application architecture skills
+- Explore AI-assisted front-end development
+- Expand into back-end and full-stack development
+- Continue building a strong front-end development portfolio
 
 ---
 
